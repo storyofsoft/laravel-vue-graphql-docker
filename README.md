@@ -25,10 +25,10 @@ To get started, make sure you have [Docker installed](https://docs.docker.com/) 
 1. Clone this project:
 
    ```sh
-   git clone https://github.com/talentedev/scoleia.git
+   git clone https://github.com/storyofsoft/laravel-vue-graphql-docker.git
    ```
 
-2. Inside the folder `scoleia` and Generate your own `.env` to docker compose with the next command:
+2. Inside the project root directory and Generate your own `.env` to docker compose with the next command:
 
    ```sh
    cp .env.example .env
